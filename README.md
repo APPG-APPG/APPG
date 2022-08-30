@@ -1,4 +1,4 @@
-This is the ``Crawled Privacy Policy Collection'' dataset for ICSE Submission Paper #151.
+This is the "Crawled Privacy Policy Collection" dataset for ICSE Submission Paper #151.
 
 You can download it via this Google Drive link:
 
